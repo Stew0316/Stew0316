@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My
-- :tw-1f1e8-1f1f3: My location: [Xiamen,China](https://maps.app.goo.gl/xVGLVgiedMXWrWz89)
+- 🇨🇳 My location: [Xiamen,China](https://maps.app.goo.gl/xVGLVgiedMXWrWz89)
 - 🌱 Learning: [Unity2D](https://docs.unity3d.com/cn/2022.3/Manual/Unity2D.html)
--  :tw-1f4bb: 
+-  
 ***
 ### Code
 <span style="color: #fff;background: skyblue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">JavaScript</span><span style="color: #fff;background: skyblue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">Vue2</span><span style="color: #fff;background: skyblue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">Vue3</span><span style="color: #fff;background: skyblue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">React</span><span style="color: #fff;background: skyblue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">HTML</span><span style="color: #fff;background: skyblue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">Css</span><span style="color: #fff;background: skyblue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">Mapbox</span><span style="color: #fff;background: skyblue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">Leaflet</span><span style="color: #fff;background: skyblue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">Unity</span><span style="color: #fff;background: skyblue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">C#</span>
