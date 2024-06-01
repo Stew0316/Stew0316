@@ -14,6 +14,7 @@
 ### Code
 > Common Use
 
+![](https://img.shields.io/badge/python-3.7.2-red)
 <span style="color: #fff;background: MediumBlue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">JavaScript</span><span style="color: #fff;background: 	#FFB6C1;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">Vue2</span><span style="color: #fff;background: skyblue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">Vue3</span><span style="color: #fff;background: DeepSkyBlue;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">React</span><span style="color: #fff;background: 	MediumTurquoise;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">HTML</span><span style="color: #fff;background: Green;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">CSS</span><span style="color: #fff;background: Gold;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">Mapbox</span><span style="color: #fff;background: GoldEnrod;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">Leaflet</span><span style="color: #fff;background: Coral;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">Unity</span><span style="color: #fff;background: DimGray;border-radius: 5px;padding: 3px 5px;margin-right: 8px;">C#</span>
 ***
 ### Program
